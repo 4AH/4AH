@@ -2,7 +2,6 @@
 [![Badge](https://cp-logo.vercel.app/atcoder/Haa)](https://atcoder.jp/users/Haa)
 [![Badge](https://cp-logo.vercel.app/codeforces/Haa)](https://codeforces.com/profile/Haa)
 [![Badge](https://cp-logo.vercel.app/topcoder/H44)](https://www.topcoder.com/members/H44)
-[![Badge](https://cp-logo.vercel.app/yukicoder/Haa)](https://yukicoder.me/users/11473)
 <!--
 **4AH/4AH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
